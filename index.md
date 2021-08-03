@@ -6,4 +6,5 @@
   </head>
   <body>
        TEST
+    </body>
 </html>
