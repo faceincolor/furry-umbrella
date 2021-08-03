@@ -35,3 +35,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Widget
+
+<script type="text/javascript">!function(){function t(){var t=document.createElement("script");var h=(Math.random() * (99999 - 1)).toFixed();t.type="module",t.async=!0,t.src="https://widget.devino.chat?h=" + h,t.setAttribute("bcw_id","5fcde72e-2f70-46b2-b761-ce69dbd799df"),document.head.appendChild(t)}"complete"==document.readyState?t():window.attachEvent?window.attachEvent("onload",t):window.addEventListener("load",t,!1)}();</script>
